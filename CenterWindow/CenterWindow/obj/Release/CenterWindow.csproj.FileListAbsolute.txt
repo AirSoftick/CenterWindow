@@ -1,0 +1,14 @@
+D:\repos\CenterWindow\CenterWindow\bin\Release\CenterWindow.exe.config
+D:\repos\CenterWindow\CenterWindow\bin\Release\CenterWindow.exe
+D:\repos\CenterWindow\CenterWindow\bin\Release\CenterWindow.pdb
+D:\repos\CenterWindow\CenterWindow\bin\Release\Guna.UI2.dll
+D:\repos\CenterWindow\CenterWindow\obj\Release\CenterWindow.csproj.AssemblyReference.cache
+D:\repos\CenterWindow\CenterWindow\obj\Release\CenterWindow.csproj.SuggestedBindingRedirects.cache
+D:\repos\CenterWindow\CenterWindow\obj\Release\CenterWindow.WC.resources
+D:\repos\CenterWindow\CenterWindow\obj\Release\CenterWindow.Properties.Resources.resources
+D:\repos\CenterWindow\CenterWindow\obj\Release\CenterWindow.csproj.GenerateResource.cache
+D:\repos\CenterWindow\CenterWindow\obj\Release\CenterWindow.csproj.CoreCompileInputs.cache
+D:\repos\CenterWindow\CenterWindow\obj\Release\CenterWindow.csproj.CopyComplete
+D:\repos\CenterWindow\CenterWindow\obj\Release\CenterWindow.exe
+D:\repos\CenterWindow\CenterWindow\obj\Release\CenterWindow.pdb
+D:\repos\CenterWindow\CenterWindow\bin\Release\Resources\IconProgramm.ico
